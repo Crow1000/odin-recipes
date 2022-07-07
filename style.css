@@ -1,0 +1,31 @@
+
+body{background: rgb(244, 95, 41);
+background: radial-gradient(circle, rgba(244,95,41,1)0%, rgba(238,196,11,1)100%);}
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script:wght@400;600&family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+h1{font-family:'lobster, cursive';
+   text-align:left;
+   position: center;
+   font-size:175px;
+   font-weight:70px;
+   color:black;
+   font-style:bold;
+   display: inline;
+   margin-top:200px}
+#div1{display: inline;
+}
+div{margin-top:400px;
+    font-size:35px;
+    font-weight:15px;
+    color:black;
+}
+img{display: inline;
+    margin-left:100px;
+    float:right;
+    margin-bottom:500px;
+    margin-right:100px;
+    border-radius:30%;
+}
+ 
